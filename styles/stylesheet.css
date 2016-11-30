@@ -18,15 +18,25 @@
       color: #33C4FF;/*black*/
       text-align: center;
     }
-    h2
-    {
 
+    h2 {
+      font-size: 1.7em;
+     font-weight: 200;
+    color: #DEC04D;
+    text-shadow: 2px 2px black;
+}
 
-    }
+a {
+font-weight: bold;
+}
 
-    a {
-      color: red;
-    }
-p{
-  color: blue
+li {
+
+}
+
+p {
+  font-size: 1.2em;
+  font-weight: 600;
+  color: #2E8DD8;
+  text-shadow: 1px 1px blue;
 }
