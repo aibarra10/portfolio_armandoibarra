@@ -88,3 +88,36 @@ section p {
 }
 
 /* Change this style */
+.indent{
+ font-size:0.7em;
+ margin-left: 40%;
+}
+
+/* Change this style */
+.indentdetails{
+ font-size: 0.7em;
+ margin-left: 40%;
+
+}
+
+
+
+#name{
+ font-size: 2.0em;
+ margin-left: 20%
+}
+
+#lewis {
+ font-size: 1.2em;
+ margin-left: 40%;
+}
+
+.Shattuck{
+ font-size: 1.0em;
+   margin-left: 40%;
+
+}
+#Paul{
+ line-height: 0.7;
+ font-size: 1.65em;
+}
