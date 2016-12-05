@@ -172,9 +172,12 @@ section p {
 #grandCanyon {
   background-image: url("../images/grand_canyon.jpg");
   background-size: cover;
-  background-position: center center;
+  background-position: right; center;
   height: 500px;
   width: 800px;
-  margin: 0 auto;
+  margin: 0 auto;}
 
-  #title 
+#top1{
+  color:#DEC04D;
+  font-size: 100px
+}
