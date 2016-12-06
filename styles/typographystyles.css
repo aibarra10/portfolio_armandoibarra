@@ -159,6 +159,7 @@ section p {
   /* Change the font-weight property to give it a ultra-bold-weight */
   font-weight: 900;
 }
+
 /*
   POSTER TYPOGRAPHY ASSIGNMENT CRITERIA:
   * Use two different typefaces (a serif and a sans-serif)
@@ -173,11 +174,30 @@ section p {
   background-image: url("../images/grand_canyon.jpg");
   background-size: cover;
   background-position: right; center;
+  text-transform: uppercase;
   height: 500px;
   width: 800px;
-  margin: 0 auto;}
+  margin: 0 auto;
+}
 
 #top1{
   color:#DEC04D;
   font-size: 100px
+  padding-top: 10%;
+  max-width: 50%;
+  text-transform: lowercase;
+  color: #2E8DD8;
+  font-family: sans-serif; align-self: center;
+  line-height: 0.5;
+
+}
+
+#bottom1{
+  font-size: 50px;
+  padding-top: 20%;
+}
+
+#bottom2 {
+  font-size: 22px;
+  padding-top: 20%;
 }
