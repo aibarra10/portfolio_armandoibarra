@@ -172,32 +172,36 @@ section p {
 
 #grandCanyon {
   background-image: url("../images/grand_canyon.jpg");
-  background-size: cover;
-  background-position: right; center;
+  background-position: center;
   text-transform: uppercase;
   height: 500px;
   width: 800px;
   margin: 0 auto;
+  font-size: 50px
 }
 
 #top1{
-  color:#DEC04D;
-  font-size: 100px
-  padding-top: 10%;
+  color: #33C4FF;
+  font-size: 50px;
+
   max-width: 50%;
-  text-transform: lowercase;
-  color: #2E8DD8;
-  font-family: sans-serif; align-self: center;
-  line-height: 0.5;
+  text-transform: uppercase;
+  color: #33C4FF ;
+  font-family: monospace;
+  align-self: center;
+  line-height: 0.6;
 
 }
 
 #bottom1{
-  font-size: 50px;
+  font-size: 20px;
   padding-top: 20%;
+  width: 800px;
+  color: gold
 }
 
 #bottom2 {
-  font-size: 22px;
+  font-size: 20px;
   padding-top: 20%;
+  color: gold
 }
